@@ -4,7 +4,7 @@
 
 # Site
 title: HARRISKING`s Blog
-subtitle:
+subtitle: Techblog & Experience
 description: 知道做不到，等于不知道
 author: LiLiancheng
 language: zh-Hans
@@ -80,5 +80,7 @@ deploy:
   type: git
   repo: https://github.com/HARRISKING/harrisking.github.io.git
   branch: master
-
-
+  
+live2d:
+  model: wanko
+  bottom: -30
