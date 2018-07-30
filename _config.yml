@@ -80,7 +80,3 @@ deploy:
   type: git
   repo: https://github.com/HARRISKING/harrisking.github.io.git
   branch: master
-  
-live2d:
-  model: wanko
-  bottom: -30
