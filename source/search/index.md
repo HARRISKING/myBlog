@@ -6,6 +6,4 @@ type: search
 
 ![](https://acdn.webacg.com/pic/497000/20180328/497000_4fa579c66410435db4a7b59f22888d88.gif)
  
- {% cq %}
  功能待开发中...
-{% endcq %}

@@ -8,7 +8,6 @@ type: about
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20171012/25ebfc9fc1434ee4919de80a310a2936.jpeg)
 
-{% cq %} 
 
 94年小哥哥
 web前端开发
@@ -16,7 +15,6 @@ web前端开发
 吉他-口琴-读书-运动
 文能赋诗唱小曲 武能开源改bug
 
-{% endcq %}
 
 # About The Webpage
 - 创站原因
