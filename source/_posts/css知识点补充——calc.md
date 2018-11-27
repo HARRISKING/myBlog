@@ -13,41 +13,43 @@ categories: 小知识点总结备忘
 上代码：
 
 - html:
-<body>
-<div class="box">
-  <div class="inner"></div>
-</div>
-</body>
+
+    
+    <body>
+    <div class="box">
+      <div class="inner"></div>
+    </div>
+    </body>
 
 - css:
 
-.box{
-  width:100px;
-  height: 100px;
-  border: 1px solid;
-  position: relative;
-}
+    .box{
+      width:100px;
+      height: 100px;
+      border: 1px solid;
+      position: relative;
+    }
 
-.inner{
-    position: absolute;
-    background: yellow;
-    width:30px;
-    height: 30px;
-    animation: animate 1s;
-}
+    .inner{
+        position: absolute;
+        background: yellow;
+        width:30px;
+        height: 30px;
+        animation: animate 1s;
+    }
 
-<!-- more -->
+    <!-- more -->
 
-@keyframes animate{
-  from{
-    background: red;
-    left: 0px;
-  }
-  to{
-    background: green;
-    left: calc(100% - 30px);
-  }
-}
+    @keyframes animate{
+      from{
+        background: red;
+        left: 0px;
+      }
+      to{
+        background: green;
+        left: calc(100% - 30px);
+      }
+    }
 ```
 ### TIP:
 
